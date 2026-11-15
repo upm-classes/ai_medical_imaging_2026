@@ -1,6 +1,6 @@
 # Artificial Intelligence in Medical Imaging: lab notebooks (November 2026)
 
-Google Colab notebooks for the course *AI in Medical Imaging: From Fundamentals to Applications* (UPM / Athens). Student notebooks (with `TODO` cells) are in `notebooks/student/`. Solution notebooks are kept private by the instructor (`notebooks/solutions/` is listed in `.gitignore`).
+Google Colab notebooks for the course *AI in Medical Imaging: From Fundamentals to Applications* (UPM / Athens). Student notebooks (with `TODO` cells) are in `notebooks/student/`. 
 
 | Day | Notebook | Topic |
 |---|---|---|
