@@ -1,0 +1,11 @@
+data/*
+!data/README.md
+*.npz
+*.zip
+outputs/
+.ipynb_checkpoints/
+__pycache__/
+# NEVER commit images, DICOM or masks (see DATA_LICENCES.md)
+
+# Solutions are not published (course decision, 15 Nov 2026)
+notebooks/solutions/
