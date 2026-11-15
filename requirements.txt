@@ -1,0 +1,5 @@
+# Course AIMI 2026. On Colab torch, torchvision, numpy, scipy, scikit-image and opencv are preinstalled: do NOT reinstall them.
+medmnist==3.0.2
+pydicom>=3.0,<4      # not verified
+nibabel>=5.2,<6      # not verified
+ipywidgets
